@@ -49,8 +49,4 @@ To run the preprocessing, Optuna tuning, and plot generations from scratch:
 python train_models.py
 ```
 
-### 4. Compile the PDF Report
-To re-generate the PDF report document containing the updated tables and figures:
-```bash
-python generate_pdf_report.py
-```
+
