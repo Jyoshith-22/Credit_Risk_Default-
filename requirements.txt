@@ -10,3 +10,5 @@ matplotlib
 seaborn
 reportlab
 streamlit
+joblib
+nbformat
