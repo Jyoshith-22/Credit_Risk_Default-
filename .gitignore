@@ -1,0 +1,11 @@
+credit_risk_dataset.csv
+best_credit_risk_model.pkl
+preprocessing_artifacts.pkl
+Machine learning.png
+explore.py
+test_app_calc.py
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
